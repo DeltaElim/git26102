@@ -1,4 +1,11 @@
 # Commit A
 ## Commit B
+<<<<<<< HEAD
 ### Commit C
+=======
+### Commit F
+#### Commit G
 
+>>>>>>> fg
+
+#### Commit D
